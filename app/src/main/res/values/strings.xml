@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">ExpandableRecyclerView</string>
+
+  <string name="expand_title"> Expand Activity</string>
+</resources>
